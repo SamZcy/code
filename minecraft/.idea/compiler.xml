@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="minecraft" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base-web" target="1.7" />
+      <module name="common" target="1.7" />
+      <module name="InternalTools" target="1.7" />
+      <module name="mybatis-generator" target="1.7" />
+      <module name="orgsam" target="1.7" />
+      <module name="OverTimeMng" target="1.7" />
+      <module name="pospUtils" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

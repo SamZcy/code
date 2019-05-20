@@ -1,0 +1,8 @@
+com\springmvc\entity\Message.class
+com\springmvc\controller\MessageController.class
+com\springmvc\common\RedisConfig.class
+com\springmvc\dao\MessageMapper.class
+com\springmvc\common\RedisDataSourceImpl.class
+com\springmvc\common\RedisClientTemplate.class
+com\springmvc\common\RedisDataSource.class
+com\springmvc\listenter\TopicMessageListener.class

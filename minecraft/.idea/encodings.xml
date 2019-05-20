@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../InternalTools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../InternalTools/OverTimeMng" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../InternalTools/base-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../InternalTools/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../InternalTools/mybatis-generator" charset="UTF-8" />
+    <file url="file://E:/pro_code/pospUtils" charset="UTF-8" />
+    <file url="file://E:/迅雷下载/demo/demo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../InternalTools/OverTimeMng" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../orgsam" />
+    <file type="web" url="file://E:/pro_code/pospUtils" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../orgsam/pom.xml" />
+        <option value="$PROJECT_DIR$/../InternalTools/pom.xml" />
+        <option value="E:/迅雷下载/demo/demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../InternalTools/OverTimeMng/pom.xml" />
+        <option value="$PROJECT_DIR$/../InternalTools/base-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../InternalTools/common/pom.xml" />
+        <option value="$PROJECT_DIR$/../InternalTools/mybatis-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/../InternalTools/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
